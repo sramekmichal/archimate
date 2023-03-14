@@ -1,13 +1,11 @@
 <archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(Composition)"
-    id="id-4d609273ff894cbd822708cf0e47fd14"
-    documentation="End with diamond is a parent of the element. Child element cannot exist alone.">
+    id="id-7a066c25cb664d0db96b1727bae85528">
   <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-2ee9603078de4579a8d7c39fdc57edae.xml#id-2ee9603078de4579a8d7c39fdc57edae"/>
+  <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-8f872d00ecf14701a4e20f33c822c652.xml#id-8f872d00ecf14701a4e20f33c822c652"/>
-  <target
-      xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_id-3ccef36082f444189bfcc3d6a27d87b9.xml#id-3ccef36082f444189bfcc3d6a27d87b9"/>
 </archimate:CompositionRelationship>

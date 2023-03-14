@@ -1,7 +1,9 @@
 <archimate:AssignmentRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-1347858989f94ee4af0e44012e13d8c3">
+    name="(Assignment)"
+    id="id-1347858989f94ee4af0e44012e13d8c3"
+    documentation="Active element (with a dot) performs the behavioral element on the side with an arrowhead.">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-8f872d00ecf14701a4e20f33c822c652.xml#id-8f872d00ecf14701a4e20f33c822c652"/>
