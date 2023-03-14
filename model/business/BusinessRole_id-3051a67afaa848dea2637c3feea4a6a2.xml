@@ -1,4 +1,5 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Business Role)"
-    id="id-3051a67afaa848dea2637c3feea4a6a2"/>
+    id="id-3051a67afaa848dea2637c3feea4a6a2"
+    documentation="Actor responsible for certain behavior."/>

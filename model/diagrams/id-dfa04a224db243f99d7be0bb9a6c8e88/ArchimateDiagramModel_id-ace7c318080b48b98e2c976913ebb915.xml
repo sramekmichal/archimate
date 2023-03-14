@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="basic application pattern"
+    name="1. basic application pattern"
     id="id-ace7c318080b48b98e2c976913ebb915"
     documentation="Chapter 7.1">
   <children
@@ -10,8 +10,8 @@
       name="Application"
       textAlignment="1">
     <bounds
-        x="408"
-        y="252"
+        x="360"
+        y="312"
         width="517"
         height="337"/>
     <children
@@ -184,8 +184,8 @@
       targetConnections="id-49b3e8af45d34dc59de1496c6a22880f"
       textPosition="1">
     <bounds
-        x="144"
-        y="480"
+        x="96"
+        y="540"
         width="169"
         height="72"/>
     <archimateElement

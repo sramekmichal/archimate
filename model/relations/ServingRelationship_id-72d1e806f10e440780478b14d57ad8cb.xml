@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-72d1e806f10e440780478b14d57ad8cb"
+    documentation="Element serves the element at the end of the arrowhead (USED BY).">
+  <source
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-3ccef36082f444189bfcc3d6a27d87b9.xml#id-3ccef36082f444189bfcc3d6a27d87b9"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_id-3051a67afaa848dea2637c3feea4a6a2.xml#id-3051a67afaa848dea2637c3feea4a6a2"/>
+</archimate:ServingRelationship>

@@ -1,4 +1,5 @@
 <archimate:BusinessInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="(Business Interface)"
-    id="id-d84be3978b9b488497a4b807cbc1e414"/>
+    id="id-d84be3978b9b488497a4b807cbc1e414"
+    documentation="The way role interacts with others (phone, mail, meeting)."/>
