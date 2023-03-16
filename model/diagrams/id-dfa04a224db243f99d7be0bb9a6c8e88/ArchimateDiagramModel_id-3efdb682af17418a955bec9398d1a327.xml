@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="3. basic application is used by basic business pattern"
-    id="id-3efdb682af17418a955bec9398d1a327">
+    id="id-3efdb682af17418a955bec9398d1a327"
+    documentation="Chapter 7.1">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0697579eb822480c9de70e61954f42d2"
